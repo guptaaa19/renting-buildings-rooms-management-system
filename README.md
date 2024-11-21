@@ -17,6 +17,7 @@ npm run dev
 ### Database setup
 
 ```sh
+php artisan storage:link
 php artisan migrate
 ```
 ### Seeders
